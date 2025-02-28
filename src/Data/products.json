@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Libas",
+        "price": 600,
+        "category":"Kurtas & Kurta Sets",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/19076450/2022/7/22/e158832a-4fba-4a11-bcca-bd022ac503321658487852198-Libas-Women-Kurta-Sets-2351658487851381-1.jpg",
+        "descriotion": "Women Floral Yoke Design Regular Sequinned Kurta with Trousers With Dupatta"
+    },
+    {
+        "id": 2,
+        "name": "Soch",
+        "price": 1348,
+        "category":"Sarees",
+        "image": "https://i.pinimg.com/originals/6d/6f/07/6d6f074a8348f3182a7e77c738faac22.jpg",
+        "descriotion": "Floral Printed Woven Design Zardozi Saree"
+    },
+    {
+        "id": 3,
+        "name": "OCTICS",
+        "price": 1232,
+        "category": "Dresses",
+        "image": "https://www.libas.in/cdn/shop/files/5_6777ee00-b0a6-4214-a6f0-8dd9a2106a45.jpg?v=1716361270",
+        "descriotion": "Floral Print Georgette Fit & Flare Maxi Dress"
+    },
+    {
+        "id": 4,
+        "name": "Caprese",
+        "price": 1124,
+        "category": "Handbags",
+        "image": "https://m.media-amazon.com/images/I/81HyNOhHiuS._SL1500_.jpg",
+        "descriotion": "Oversized Structured Shoulder Bag"
+    },
+    {
+        "id": 5,
+        "name": "Puma",
+        "price":1664 ,
+        "category": "Flats & Heels",
+        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/376542/01/fnd/AUS/fmt/png/Better-Foam-Prowl-Slip-On-Women's-Running-Shoes",
+        "descriotion": "Women Adelina Knit Ballerinas"
+    },
+    {
+        "id": 6,
+        "name": "KALINI",
+        "price": 999,
+        "category":"Kurtas & Kurta Sets",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/16505390/2021/12/13/b513f76b-aa64-4913-a151-6817ed8607311639403460307KALINIWomenBlueEthnicMotifsPrintedFloralAnarkaliKurta5.jpg",
+        "descriotion": "Ethnic Motifs Embroidered Thread Work Anarkali Kurta with Trousers & Dupatta"
+    },
+    {
+        "id": 7,
+        "name": "Fabindia",
+        "price":2999 ,
+        "category":"Sarees",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/21069124/2022/12/5/d9065d46-e8be-482f-b02a-ca66828bf37a1670221867023FabindiaWovenBlackCottonSaree1.jpg",
+        "descriotion": "Colourblocked Pure Cotton Saree"
+    },
+    {
+        "id": 8,
+        "name": "Biba",
+        "price": 2399,
+        "category":"Dresses",
+        "image": "https://i.pinimg.com/originals/46/80/89/468089bc972c5dcb01cfe6ba0daa1220.jpg",
+        "descriotion": "Self Design Cotton Shirt Dress"
+    },
+    {
+        "id": 9,
+        "name": "Lavie",
+        "price": 1199 ,
+        "category":"Handbags",
+        "image": "https://th.bing.com/th/id/R.467e00ed2e1fda41c1ee977f773ffee9?rik=QyCqR%2bz1zbXeDA&riu=http%3a%2f%2fassets.myntassets.com%2fh_1440%2cq_95%2cw_1080%2fv1%2fimage%2fstyle%2fproperties%2f814699%2fLavie-Red-Handbag_1_51fa43db3df905b3c471edad2d493788.jpg&ehk=0h18tYSHhAQWU9hByHk0%2fHewgSrA%2foQVXFO3Nc5bVYw%3d&risl=&pid=ImgRaw&r=0",
+        "descriotion": "Synthetic Leather Satchel"
+    },
+    {
+        "id": 10,
+        "name": "Allen Solly Woman",
+        "price": 1959,
+        "category":"Flats & Heels",
+        "image": "https://media-us.landmarkshops.in/cdn-cgi/image/h=1125,w=1125,q=85,fit=cover/lifestyle/1000013861961-Black-Black-1000013861961_01-2100.jpg",
+        "descriotion": "Pointed Toe Block Pumps"
+    },
+    {
+        "id": 11,
+        "name": "Shaily",
+        "price": 3191,
+        "category":"Kurtas & Kurta Sets",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/24864916/2023/9/8/1611f7e3-1f89-4cfd-9d94-d7d7d6d3ff171694154142137KoskiiWomenGreenEthnicMotifsEmbroideredEmpireSequinnedKurtiw1.jpg",
+        "descriotion": "Ethnic Motifs Embroidered Sequinned Straight Kurta with Sharara & Dupatta"
+    },
+    {
+        "id": 12,
+        "name": "Suta",
+        "price": 3800,
+        "category":"Sarees",
+        "image": "https://www.likeadiva.com/media/pimages/1576852167111-1.jpg",
+        "descriotion": "Red Colourblocked Zari Saree"
+    },
+    {
+        "id": 13,
+        "name": "Van Heusen Woman",
+        "price": 2099,
+        "category":"Dresses",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/15055942/2021/8/6/c54ebb15-21a8-43cb-a154-7c0ac57091871628257009732VanHeusenWomanGreenSheathDress1.jpg",
+        "descriotion": "Formal Sheath Dress"
+    },
+    {
+        "id": 14,
+        "name": "Baggit",
+        "price": 769,
+        "category":"Handbags",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/13828420/2021/4/27/f440e17a-f6d3-4f27-83e2-c4bf845464ad1619505236081-Baggit-Women-Wallets-9081619505235183-1.jpg",
+        "descriotion": "Women Printed PU Two Fold Wallet"
+    },
+    {
+        "id": 15,
+        "name": "Lavie",
+        "price": 696,
+        "category":"Flats & Heels",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/10131911/2020/2/18/2878c357-24ef-4e05-af13-086249ace03d1582013783785-Lavie-Women-Black-Printed-Open-Toe-Flats-9681582013782267-1.jpg",
+        "descriotion": "Women Open Toe Flats"
+    },
+    {
+        "id": 16,
+        "name": "Anoke",
+        "price": 876,
+        "category":"Kurtas & Kurta Sets",
+        "image": "https://i.pinimg.com/originals/47/02/23/470223629fef06cd55ec6fad35cee154.jpg",
+        "descriotion": "Women's Cotton Printed Straight Kurta with Palazzo & Dupatta Set"
+    },
+    {
+        "id": 17,
+        "name": "Sangria",
+        "price": 1499,
+        "category":"Sarees",
+        "image": "https://th.bing.com/th/id/OIP.LrCy00Z7NQ8xgnVCb_RxewAAAA?rs=1&pid=ImgDetMain",
+        "descriotion": "Woven Design Banarasi Tissue Saree"
+    },
+    {
+        "id": 18,
+        "name": "Tokyo Talkies",
+        "price": 400,
+        "category":"Dresses",
+        "image": "https://getketchadmin.getketch.com/product/8905745144144/660/TTJ6007338_1.jpg",
+        "descriotion": "Women Elegant Lavender Solid Dress"
+    },
+    {
+        "id": 19,
+        "name": "ZOUK",
+        "price": 1199,
+        "category":"Handbags",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/22615268/2023/4/3/8ea9ddb2-7e88-4465-946f-6fdf746335eb1680498230618ZOUKBrownEthnicMotifsShopperSlingBag1.jpg",
+        "descriotion": "Ethnic Motifs Printed Shopper Tote Bag"
+    },
+    {
+        "id": 20,
+        "name": "Van Heusen5",
+        "price": 1399,
+        "category":"Flats & Heels",
+        "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/22547288/2023/10/9/66d28dc4-d59a-494f-a03f-276de6b7704f1696836829483-Van-Heusen-Woman-Women-Heels-3451696836829273-1.jpg",
+        "descriotion": "Open Toe Block Heels"
+    }
+
+]
