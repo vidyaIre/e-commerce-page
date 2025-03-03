@@ -1,6 +1,7 @@
 import React from 'react';
 
 const ProductCard = ({ product, addToCart }) => {
+    //console.log("productCard",addToCart);
     return (
       <div className="card">
         <img src={product.image} className="card-img-top" alt={product.name} />

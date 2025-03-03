@@ -18,7 +18,7 @@ body {
   .card img {
     width: 100%;
     height: auto;
-    max-height: 400px;
+    max-height: 450px;
     object-fit: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -35,5 +35,9 @@ body {
 .card-text {
     font-size: 1rem;
     color: #666;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
+    height: 60px;
+    overflow: hidden;
+    text-overflow: hidden;
+
 }
